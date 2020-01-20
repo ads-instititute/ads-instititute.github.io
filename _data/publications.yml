@@ -32,6 +32,12 @@
       url: https://arxiv.org/abs/1909.05503
       highlight: We propose a new framework to discretize stochastic differential equations and give a much faster sampling algorithm for well-conditioned log-concave distributions.
 
+    - author: Omid Sadeghi, Maryam Fazel
+      title: Online Continuous DR-Submodular Maximization with Long-Term Budget Constraints
+      journal: arxiv abs/1907.00316
+      url: https://arxiv.org/abs/1907.00316
+      highlight: We consider the online continuous DR-submodular maximization problem with long-term budget constraints where both the DR-submodular utility functions and the linear constraint functions are arriving online and we propose an algorithm that obtains sub-linear regret and total budget violation bounds for this problem.
+      
     - author: Yue Sun, Nicolas Flammarion, Maryam Fazel
       title: Escaping from saddle points on Riemannian manifolds
       journal: arXiv abs/1906.07355
