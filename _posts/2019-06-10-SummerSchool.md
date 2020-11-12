@@ -5,7 +5,7 @@ date:       2019-06-10
 summary:    ADSI is pleased to announce a summer school to be hosted at the University of Washington in August 2019. The program will offer a platform for leading experts to communicate recent advances, educate participating students, and build connections between diverse areas of data science.
 
 author:     
-image:      images/ADSI.png
+image:      /images/ADSI.png
 image_url:  
 categories: news
 ---

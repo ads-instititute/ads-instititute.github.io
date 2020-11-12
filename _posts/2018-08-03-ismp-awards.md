@@ -4,7 +4,7 @@ title:      Yin Tat Lee (coPI) wins the Tucker Prize, and Thomas Rothvoss (affil
 date:       2018-08-03 
 summary:    ADSI coPI, Yin Tat Lee, and ADSI affiliate member, Thomas Rothvoss, recognized for their contributions to mathematical optimization
 author:     
-image:      images/Lee-Rothvoss-pic.jpg
+image:      /images/Lee-Rothvoss-pic.jpg
 image_url:  
 categories: news
 ---

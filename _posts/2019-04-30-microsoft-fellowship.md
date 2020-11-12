@@ -4,7 +4,7 @@ title:      Yin Tat Lee receives Microsoft Research Faculty Fellowship
 date:       2019-04-30
 summary:    ADSI coPI, Yin Tat Lee, has been named a 2019 Microsoft Research Faculty Fellow. Since 2005, Microsoft has used its Faculty Fellowship program to recognize promising, early-career researchers whose exceptional research talent makes them emerging leaders in their fields. 
 author:     
-image:      members/YinTat.jpg
+image:      /members/YinTat.jpg
 image_url:  
 categories: news
 ---

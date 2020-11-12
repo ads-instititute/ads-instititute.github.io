@@ -4,7 +4,7 @@ title:      The proximal point method revisited, episode 0. Introduction
 date:       2018-01-24 17:00:00 -0700
 summary:    Revisiting the proximal point method. Introduction and Notation.
 author:     Dmitriy Drusvyatskiy
-image:      images/prox.png
+image:      /images/prox.png
 image_url:  http://sites.math.washington.edu/~ddrusv/
 categories: blog
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      Yin Tat Lee wins 2018 NSF CAREER Award
 date:       2018-02-27 00:00:00
 summary:    Yin Tat Lee selected for the 2018 National Science Foundation Faculty Early Career Development (CAREER) program
-image:      members/YinTat.jpg
+image:      /members/YinTat.jpg
 categories: news
 ---
 

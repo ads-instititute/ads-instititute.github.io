@@ -4,7 +4,7 @@ title:      Corinne Jones won the ASA Statistical Computing Award
 date:       2020-1-17
 summary:    Corinne Jones won the 2020 Chambers Student Paper Award from the ASA Statistical Computing Section, for her paper "End-to-end Learning, with or without Labels”.
 author:     
-image:      members/CorinneJones.jpg
+image:      /members/CorinneJones.jpg
 image_url:  
 categories: news
 ---

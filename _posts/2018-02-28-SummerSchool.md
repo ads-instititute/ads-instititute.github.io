@@ -4,7 +4,7 @@ title:      Summer School Announcement
 date:       2018-02-28 00:00:00
 summary:    A summer school co-organized by ADSI
 author:     
-image:      images/ADSI.png
+image:      /images/ADSI.png
 image_url:  
 categories: news
 ---

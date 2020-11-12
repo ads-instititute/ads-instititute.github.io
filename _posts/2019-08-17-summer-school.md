@@ -4,7 +4,7 @@ title:      Summer School on Foundations of Data Science
 date:       2019-08-17
 summary:    A 5-day Summer School on Foundations of Data Science organized by ADSI. 65 graduate students and postdocs from different schools joined.
 author:     
-icon:      images/school_icon.jpg
+icon:      /images/school_icon.jpg
 image_url:  
 categories: news
 ---

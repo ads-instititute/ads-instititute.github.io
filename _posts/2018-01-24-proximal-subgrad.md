@@ -4,7 +4,7 @@ title:      Proximal point algorithm revisited, episode 1. The proximally guided
 date:       2018-01-24 17:01:00 -0700
 summary:    Revisiting the proximal point method, with the proximally guided subgradient method for stochastic optimization.
 author:     Dmitriy Drusvyatskiy
-image:      images/prox.png
+image:      /images/prox.png
 image_url:  http://sites.math.washington.edu/~ddrusv/
 categories: blog
 ---

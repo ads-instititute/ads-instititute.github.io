@@ -11,7 +11,7 @@ title:      TITLE
 date:       2017-12-20 (the date you want to document to be posted)
 summary:    One sentence summary
 author:     Maryam Fazel
-image:      images/NSF.gif
+image:      /images/NSF.gif
 image_url:  https://arxiv.org/abs/1711.01085
 categories: blog
 ---
@@ -30,7 +30,7 @@ title:      TITLE
 date:       2017-12-20 (the date you want to document to be posted)
 summary:    One sentence summary
 author:     Maryam Fazel
-image:      images/NSF.gif
+image:      /images/NSF.gif
 image_url:  https://arxiv.org/abs/1711.01085
 categories: news
 ---
