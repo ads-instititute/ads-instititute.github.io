@@ -18,7 +18,7 @@
       pic: Zaid.jpg
       interest: Safe Statistical Machine Learning, Representations For Signals and Images
       url: http://faculty.washington.edu/zaid/
-      
+
     - first_name: Sham
       last_name: Kakade
       pic: Sham.jpg
@@ -242,7 +242,7 @@
       last_name: Ye
       pic: Guanghao.jpg
       interest: Convex Optimization
-      url:
+      url: https://yeguanghao.xyz/
       
 - group_name: Alumni
   members:
